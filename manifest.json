@@ -1,0 +1,17 @@
+{
+    "name": "samegame.clement-gwaka",
+    "description": "description of SameGame",
+    "architecture": "all",
+    "title": "SameGame",
+    "hooks": {
+        "SameGame": {
+            "apparmor": "SameGame.apparmor",
+            "desktop":  "SameGame.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Clement Cocquempot <clement.cocquempot@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

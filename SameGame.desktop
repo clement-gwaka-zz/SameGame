@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SameGame
+Exec=qmlscene $@ Main.qml
+Icon=SameGame.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
